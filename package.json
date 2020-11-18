@@ -1,0 +1,27 @@
+{
+  "name": "poc-cypress",
+  "version": "0.1.0",
+  "description": "POC Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isortegahlabs/poc-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "sdet",
+    "automation"
+  ],
+  "author": "Ivan Sebastian Ortega huixtlacatl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isortegahlabs/poc-cypress/issues"
+  },
+  "homepage": "https://github.com/isortegahlabs/poc-cypress#readme",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
